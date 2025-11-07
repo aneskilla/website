@@ -1,0 +1,40 @@
+h1{
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: #29000f;
+  font-size: 30px;
+  font-weight: 90;
+  text-align: center;
+}
+p{
+font-family: Arial, Helvetica, sans-serif;
+padding-bottom: 10px;
+}
+header {
+  text-align: center;
+  background-color:#FF00FF;
+}
+.container {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-gap: 20px;
+}
+.item {
+background:#1E90FF;
+padding: 100px;
+text-align: center;
+height: 70px;
+}
+.container2 {
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 60px;
+}
+.item2 {
+background:#EE82EE;
+padding: 30px;
+text-align: center;
+}
+body{
+background:#E0FFFF;
+}
