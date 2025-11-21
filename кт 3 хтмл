@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Цветочки</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+  <h1>ЦВЕТОЧКИ</h1>
+</header>
+<div class="container">
+  <div class="item6">
+    <h1>Роза</h1>
+    <p>для прекрасных анастасий</p>
+    </div>
+<div class="item5">
+    <h1>Пиончик</h1>
+    <p>для прекрасных анастасий</p>
+  </div>
+<div class="item4">
+    <h1>Ромашка</h1>
+    <p>для прекрасных анастасий</p>
+  </div>
+ <div class="item3">
+    <h1>Тюльпанчик</h1>
+    <p>для прекрасных анастасий</p>
+  </div>
+ <div class="item2">
+    <h1>Гортензии</h1>
+    <p>для прекрасных анастасий</p>
+  </div>
+ <div class="item1">
+    <h1>Гипсофилы</h1>
+    <p>для прекрасных анастасий</p>
+  </div>
+</div>
+<div class="ivg56">
+  <div class="item55">
+    <h1>Контакты</h1>
+    <p>Позвонить</p>
+  </div>
+<div class="item56">
+    <h1>Местоположение</h1>
+    <p>Узнать адрес</p>
+  </div>
+<div class="item57">
+    <h1>Соц сети</h1>
+    <p>Перейти</p>
+  </div>
+ <div class="item58">
+    <h1>Купить</h1>
+    <p>Нажать для заказа</p>
+  </div>
+</div>
+</body>
+</html>
